@@ -1,0 +1,7 @@
+## Interface: 90205
+## Name: QuickReload
+## Title: |cff669DFFQuickReload|r
+## Notes: Empty toc for Curseforge
+## Author: Josh "Kkthnx" Russell
+## Version: 1.0.0
+## X-Support: SL
